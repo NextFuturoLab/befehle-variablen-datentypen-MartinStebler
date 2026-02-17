@@ -1,6 +1,7 @@
 class Aufgabe {
   public static void main(String[] args) {
     // deklariere eine Variable "birnen" vom Typ int
+    String birnen;
     // weise ihr den Wert drei zu
     System.out.println("3 erwartet: " + birnen);
 
